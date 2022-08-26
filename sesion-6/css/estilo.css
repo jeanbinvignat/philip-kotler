@@ -1,0 +1,29 @@
+/*
+    Sees
+    selector {
+        atributo1: valor;
+        atributo2: valor;
+        {
+*/
+
+/* selector por etiqueta */
+header {
+    background-color: black;
+    color: white;
+}
+
+p {
+    color: #3d382d;
+}
+
+/* selector por etiqueta */ 
+
+.enlace-redsocial {
+    color: rgb(202, 191, 89);
+}
+
+/* selector por ID */
+
+#imagen-principal {
+    border: 2px solid green;
+}
